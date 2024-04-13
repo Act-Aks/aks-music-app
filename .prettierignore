@@ -35,3 +35,9 @@ yarn-error.*
 *.tsbuildinfo
 
 .yarn
+.yarnrc.yml
+.nvmrc
+yarn.lock
+metro.config.js
+babel.config.js
+commitlint.config.cjs
